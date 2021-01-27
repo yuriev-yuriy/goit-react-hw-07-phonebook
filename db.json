@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Zula",
+      "number": "484-15-48",
+      "id": 8
+    },
+    {
+      "name": "Viktor",
+      "number": "47-4848-48",
+      "id": 9
+    },
+    {
+      "name": "Sandra",
+      "number": "15846-184",
+      "id": 10
+    },
+    {
+      "name": "Trev",
+      "number": "154",
+      "id": 19
+    },
+    {
+      "name": "Siri",
+      "number": "6464",
+      "id": 21
+    },
+    {
+      "name": "Homer",
+      "number": "515-48-48",
+      "id": 23
+    },
+    {
+      "name": "Lisa",
+      "number": "54564",
+      "id": 24
+    },
+    {
+      "name": "Zak",
+      "number": "54-48-48",
+      "id": 25
+    },
+    {
+      "name": "Marge",
+      "number": "5489148-484-",
+      "id": 26
+    }
+  ]
+}
